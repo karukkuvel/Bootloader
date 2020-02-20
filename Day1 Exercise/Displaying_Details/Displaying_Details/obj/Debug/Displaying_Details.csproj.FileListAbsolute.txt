@@ -1,0 +1,7 @@
+C:\Users\karukkuvelraja.arum2\source\repos\Displaying_Details\Displaying_Details\bin\Debug\Displaying_Details.exe.config
+C:\Users\karukkuvelraja.arum2\source\repos\Displaying_Details\Displaying_Details\bin\Debug\Displaying_Details.exe
+C:\Users\karukkuvelraja.arum2\source\repos\Displaying_Details\Displaying_Details\bin\Debug\Displaying_Details.pdb
+C:\Users\karukkuvelraja.arum2\source\repos\Displaying_Details\Displaying_Details\obj\Debug\Displaying_Details.csprojAssemblyReference.cache
+C:\Users\karukkuvelraja.arum2\source\repos\Displaying_Details\Displaying_Details\obj\Debug\Displaying_Details.csproj.CoreCompileInputs.cache
+C:\Users\karukkuvelraja.arum2\source\repos\Displaying_Details\Displaying_Details\obj\Debug\Displaying_Details.exe
+C:\Users\karukkuvelraja.arum2\source\repos\Displaying_Details\Displaying_Details\obj\Debug\Displaying_Details.pdb

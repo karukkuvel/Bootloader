@@ -1,0 +1,14 @@
+C:\Users\karukkuvelraja.arum2\source\repos\Calculator_SwitchCase\Calculator_SwitchCase\bin\Debug\Calculator_SwitchCase.exe.config
+C:\Users\karukkuvelraja.arum2\source\repos\Calculator_SwitchCase\Calculator_SwitchCase\bin\Debug\Calculator_SwitchCase.exe
+C:\Users\karukkuvelraja.arum2\source\repos\Calculator_SwitchCase\Calculator_SwitchCase\bin\Debug\Calculator_SwitchCase.pdb
+C:\Users\karukkuvelraja.arum2\source\repos\Calculator_SwitchCase\Calculator_SwitchCase\obj\Debug\Calculator_SwitchCase.csprojAssemblyReference.cache
+C:\Users\karukkuvelraja.arum2\source\repos\Calculator_SwitchCase\Calculator_SwitchCase\obj\Debug\Calculator_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\karukkuvelraja.arum2\source\repos\Calculator_SwitchCase\Calculator_SwitchCase\obj\Debug\Calculator_SwitchCase.exe
+C:\Users\karukkuvelraja.arum2\source\repos\Calculator_SwitchCase\Calculator_SwitchCase\obj\Debug\Calculator_SwitchCase.pdb
+C:\Program Files\Bootloader\Calculator_SwitchCase\Calculator_SwitchCase\bin\Debug\Calculator_SwitchCase.exe.config
+C:\Program Files\Bootloader\Calculator_SwitchCase\Calculator_SwitchCase\bin\Debug\Calculator_SwitchCase.exe
+C:\Program Files\Bootloader\Calculator_SwitchCase\Calculator_SwitchCase\bin\Debug\Calculator_SwitchCase.pdb
+C:\Program Files\Bootloader\Calculator_SwitchCase\Calculator_SwitchCase\obj\Debug\Calculator_SwitchCase.csprojAssemblyReference.cache
+C:\Program Files\Bootloader\Calculator_SwitchCase\Calculator_SwitchCase\obj\Debug\Calculator_SwitchCase.csproj.CoreCompileInputs.cache
+C:\Program Files\Bootloader\Calculator_SwitchCase\Calculator_SwitchCase\obj\Debug\Calculator_SwitchCase.exe
+C:\Program Files\Bootloader\Calculator_SwitchCase\Calculator_SwitchCase\obj\Debug\Calculator_SwitchCase.pdb

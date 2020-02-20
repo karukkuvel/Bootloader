@@ -1,0 +1,7 @@
+C:\Program Files\Bootloader\SimpleInterestCalculator\SimpleInterestCalculator\bin\Debug\SimpleInterestCalculator.exe.config
+C:\Program Files\Bootloader\SimpleInterestCalculator\SimpleInterestCalculator\bin\Debug\SimpleInterestCalculator.exe
+C:\Program Files\Bootloader\SimpleInterestCalculator\SimpleInterestCalculator\bin\Debug\SimpleInterestCalculator.pdb
+C:\Program Files\Bootloader\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.csprojAssemblyReference.cache
+C:\Program Files\Bootloader\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.csproj.CoreCompileInputs.cache
+C:\Program Files\Bootloader\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.exe
+C:\Program Files\Bootloader\SimpleInterestCalculator\SimpleInterestCalculator\obj\Debug\SimpleInterestCalculator.pdb

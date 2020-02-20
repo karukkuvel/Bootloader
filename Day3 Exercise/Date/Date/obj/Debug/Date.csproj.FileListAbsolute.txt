@@ -1,0 +1,14 @@
+C:\Users\karukkuvelraja.arum2\source\repos\Date\Date\bin\Debug\Date.exe.config
+C:\Users\karukkuvelraja.arum2\source\repos\Date\Date\bin\Debug\Date.exe
+C:\Users\karukkuvelraja.arum2\source\repos\Date\Date\bin\Debug\Date.pdb
+C:\Users\karukkuvelraja.arum2\source\repos\Date\Date\obj\Debug\Date.csprojAssemblyReference.cache
+C:\Users\karukkuvelraja.arum2\source\repos\Date\Date\obj\Debug\Date.csproj.CoreCompileInputs.cache
+C:\Users\karukkuvelraja.arum2\source\repos\Date\Date\obj\Debug\Date.exe
+C:\Users\karukkuvelraja.arum2\source\repos\Date\Date\obj\Debug\Date.pdb
+C:\Program Files\Bootloader\Date\Date\bin\Debug\Date.exe.config
+C:\Program Files\Bootloader\Date\Date\bin\Debug\Date.exe
+C:\Program Files\Bootloader\Date\Date\bin\Debug\Date.pdb
+C:\Program Files\Bootloader\Date\Date\obj\Debug\Date.csprojAssemblyReference.cache
+C:\Program Files\Bootloader\Date\Date\obj\Debug\Date.csproj.CoreCompileInputs.cache
+C:\Program Files\Bootloader\Date\Date\obj\Debug\Date.exe
+C:\Program Files\Bootloader\Date\Date\obj\Debug\Date.pdb

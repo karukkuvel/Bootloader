@@ -1,0 +1,7 @@
+C:\Program Files\Bootloader\Multiplication\Multiplication\bin\Debug\Multiplication.exe.config
+C:\Program Files\Bootloader\Multiplication\Multiplication\bin\Debug\Multiplication.exe
+C:\Program Files\Bootloader\Multiplication\Multiplication\bin\Debug\Multiplication.pdb
+C:\Program Files\Bootloader\Multiplication\Multiplication\obj\Debug\Multiplication.csprojAssemblyReference.cache
+C:\Program Files\Bootloader\Multiplication\Multiplication\obj\Debug\Multiplication.csproj.CoreCompileInputs.cache
+C:\Program Files\Bootloader\Multiplication\Multiplication\obj\Debug\Multiplication.exe
+C:\Program Files\Bootloader\Multiplication\Multiplication\obj\Debug\Multiplication.pdb

@@ -1,0 +1,6 @@
+C:\Program Files\Bootloader\Even_Odd\Even_Odd\bin\Debug\Even_Odd.exe.config
+C:\Program Files\Bootloader\Even_Odd\Even_Odd\bin\Debug\Even_Odd.exe
+C:\Program Files\Bootloader\Even_Odd\Even_Odd\bin\Debug\Even_Odd.pdb
+C:\Program Files\Bootloader\Even_Odd\Even_Odd\obj\Debug\Even_Odd.csproj.CoreCompileInputs.cache
+C:\Program Files\Bootloader\Even_Odd\Even_Odd\obj\Debug\Even_Odd.exe
+C:\Program Files\Bootloader\Even_Odd\Even_Odd\obj\Debug\Even_Odd.pdb

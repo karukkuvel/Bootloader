@@ -1,0 +1,6 @@
+C:\Program Files\Bootloader\Sum_Of_Mul\Sum_Of_Mul\bin\Debug\Sum_Of_Mul.exe.config
+C:\Program Files\Bootloader\Sum_Of_Mul\Sum_Of_Mul\bin\Debug\Sum_Of_Mul.exe
+C:\Program Files\Bootloader\Sum_Of_Mul\Sum_Of_Mul\bin\Debug\Sum_Of_Mul.pdb
+C:\Program Files\Bootloader\Sum_Of_Mul\Sum_Of_Mul\obj\Debug\Sum_Of_Mul.csproj.CoreCompileInputs.cache
+C:\Program Files\Bootloader\Sum_Of_Mul\Sum_Of_Mul\obj\Debug\Sum_Of_Mul.exe
+C:\Program Files\Bootloader\Sum_Of_Mul\Sum_Of_Mul\obj\Debug\Sum_Of_Mul.pdb

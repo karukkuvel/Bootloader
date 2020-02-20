@@ -1,0 +1,7 @@
+C:\Program Files\Bootloader\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Program Files\Bootloader\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Program Files\Bootloader\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Program Files\Bootloader\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csprojAssemblyReference.cache
+C:\Program Files\Bootloader\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Program Files\Bootloader\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Program Files\Bootloader\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb

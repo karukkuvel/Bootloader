@@ -1,0 +1,6 @@
+C:\Program Files\Bootloader\EqualNot\EqualNot\bin\Debug\EqualNot.exe.config
+C:\Program Files\Bootloader\EqualNot\EqualNot\bin\Debug\EqualNot.exe
+C:\Program Files\Bootloader\EqualNot\EqualNot\bin\Debug\EqualNot.pdb
+C:\Program Files\Bootloader\EqualNot\EqualNot\obj\Debug\EqualNot.csproj.CoreCompileInputs.cache
+C:\Program Files\Bootloader\EqualNot\EqualNot\obj\Debug\EqualNot.exe
+C:\Program Files\Bootloader\EqualNot\EqualNot\obj\Debug\EqualNot.pdb
